@@ -1,0 +1,11 @@
+phase,phase_order,risk_category,n_countries,avg_disruption,avg_volatility,avg_dependency,avg_trade_B,avg_yoy_pct,avg_conflict
+COVID Shock (2020),2,High,4,0.304,0.314,0.4,75.198,2.378,0.537
+COVID Shock (2020),2,Low,33,0.184,0.028,0.2,13.134,2.087,0.688
+COVID Shock (2020),2,Medium,3,0.412,0.117,0.909,106.08,2.477,0.763
+Post-COVID (2022),4,Low,33,0.198,0.034,0.198,34.195,6.448,0.601
+Post-COVID (2022),4,Medium,7,0.424,0.202,0.63,138.952,32.726,0.621
+Pre-COVID (2019),1,High,5,0.286,0.252,0.421,60.609,2.58,0.344
+Pre-COVID (2019),1,Low,32,0.195,0.029,0.191,17.408,2.58,0.689
+Pre-COVID (2019),1,Medium,3,0.432,0.117,0.909,96.413,2.58,0.81
+Recovery (2021),3,Low,34,0.201,0.033,0.21,23.91,4.457,0.664
+Recovery (2021),3,Medium,6,0.369,0.234,0.633,127.057,4.457,0.59

@@ -1,0 +1,11 @@
+refYear,phase,phase_order,risk_category,n_countries,avg_disruption,total_trade_B,avg_yoy_pct,avg_confidence_pct,avg_volatility
+2019,Pre-COVID (2019),1,High,5,0.286,303.046,2.58,76.0,0.252
+2019,Pre-COVID (2019),1,Low,32,0.195,557.042,2.58,87.319,0.029
+2019,Pre-COVID (2019),1,Medium,3,0.432,289.24,2.58,78.3,0.117
+2020,COVID Shock (2020),2,High,4,0.304,300.793,2.378,74.3,0.314
+2020,COVID Shock (2020),2,Low,33,0.184,433.416,2.087,91.021,0.028
+2020,COVID Shock (2020),2,Medium,3,0.412,318.241,2.477,92.767,0.117
+2021,Recovery (2021),3,Low,34,0.201,812.947,4.457,93.362,0.033
+2021,Recovery (2021),3,Medium,6,0.369,762.339,4.457,87.0,0.234
+2022,Post-COVID (2022),4,Low,33,0.198,1128.446,6.448,92.236,0.034
+2022,Post-COVID (2022),4,Medium,7,0.424,972.665,32.726,94.543,0.202
